@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/react-app-e-commerce-/static/css/main.7464c72d.css",
+    "main.js": "/react-app-e-commerce-/static/js/main.cb872f69.js",
+    "static/js/787.571bb007.chunk.js": "/react-app-e-commerce-/static/js/787.571bb007.chunk.js",
+    "static/media/light-patten.svg": "/react-app-e-commerce-/static/media/light-patten.ed706aff39a009de4e80.svg",
+    "static/media/slider-2.jpeg": "/react-app-e-commerce-/static/media/slider-2.92200ddb54f84e0e8c71.jpeg",
+    "static/media/fa-solid-900.ttf": "/react-app-e-commerce-/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/fa-brands-400.ttf": "/react-app-e-commerce-/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
+    "static/media/slider-image-3.jpeg": "/react-app-e-commerce-/static/media/slider-image-3.7e5c9f7a513f6db6dd5e.jpeg",
+    "static/media/slider-image-2.jpeg": "/react-app-e-commerce-/static/media/slider-image-2.e510b0de8a4d96a1d5ad.jpeg",
+    "static/media/grocery-banner-2.jpeg": "/react-app-e-commerce-/static/media/grocery-banner-2.7a4a78a90acc3d5847cb.jpeg",
+    "static/media/fa-solid-900.woff2": "/react-app-e-commerce-/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/fa-brands-400.woff2": "/react-app-e-commerce-/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/404-error-website-not-found-graphic-design-vector-22271798.jpg": "/react-app-e-commerce-/static/media/404-error-website-not-found-graphic-design-vector-22271798.c5dcfb1a959542e4c7ec.jpg",
+    "static/media/fa-regular-400.ttf": "/react-app-e-commerce-/static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/fa-regular-400.woff2": "/react-app-e-commerce-/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
+    "static/media/freshcart-logo.svg": "/react-app-e-commerce-/static/media/freshcart-logo.53f7a424c3aedc30a0fb46dc2278137c.svg",
+    "static/media/fa-v4compatibility.ttf": "/react-app-e-commerce-/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
+    "static/media/fa-v4compatibility.woff2": "/react-app-e-commerce-/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
+    "static/media/slick.svg": "/react-app-e-commerce-/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/react-app-e-commerce-/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/react-app-e-commerce-/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/react-app-e-commerce-/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/react-app-e-commerce-/index.html",
+    "main.7464c72d.css.map": "/react-app-e-commerce-/static/css/main.7464c72d.css.map",
+    "main.cb872f69.js.map": "/react-app-e-commerce-/static/js/main.cb872f69.js.map",
+    "787.571bb007.chunk.js.map": "/react-app-e-commerce-/static/js/787.571bb007.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7464c72d.css",
+    "static/js/main.cb872f69.js"
+  ]
+}
