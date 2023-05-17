@@ -49,12 +49,19 @@ const App = () => {
   },[])
  const router= createHashRouter([
     {
+      
+   
+ 
        path:'',element: <Layout currentUser={currentUser} clearUserData={clearUserData} />,children:[
         {
           path:'home',element:<CartContextProvider><Home/></CartContextProvider>
         },
         {
           path:'',element:<CartContextProvider><Home/></CartContextProvider>
+        },
+        {
+          path:"/react-app-e-commerce-",element:
+            <ProtectedRoute><Home/></ProtectedRoute>
         },
         {
           path:'login',element:<Login getUsrData={getUsrData}/>

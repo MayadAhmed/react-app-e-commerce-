@@ -29,7 +29,7 @@ const Paument = () => {
     }
     async function confirmCreditOrder(){
         try {
-            const {data}=await axios.post(`https://route-ecommerce.onrender.com/api/v1/orders/checkout-session/${cartId}`,{
+            const {data}=await axios.post(`https://ecommerce.routemisr.com/api/v1/orders/checkout-session/${cartId}`,{
                 "shippingAddress":{
                     "details": document.querySelector('#detailes').value,
                     "phone": document.querySelector('#phone').value,

@@ -6,7 +6,7 @@ const Allorders = ({currentUser}) => {
     const [allOrders, setallOrders] = useState(null)
     async function getAllOrders(){
         try {
-            const {data}=await axios.get(`https://route-ecommerce.onrender.com/api/v1/orders/user/${currentUser.id}`)
+            const {data}=await axios.get(`https://ecommerce.routemisr.com/api/v1/orders/user/${currentUser.id}`)
             setallOrders(data)
             console.log(allOrders);
             

@@ -6,7 +6,7 @@ import LoadingScren from '../LoadingScreen/LoadingScren';
 const Brands = () => {
     const [allbrands, setallbrands] = useState(null)
     async function getAllBrands(){
-    let {data}=await axios.get('https://route-ecommerce.onrender.com/api/v1/brands')
+    let {data}=await axios.get('https://ecommerce.routemisr.com/api/v1/brands')
     console.log(data.data);
     setallbrands(data.data)
     }
